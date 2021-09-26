@@ -26,6 +26,20 @@ Things to get:
     "Shoe Width": "Medium",
     "Footwear outsole details": "Non Marking Outsole"
 
+Pending:
+    "tcin": 
+    "upc": 
+    "Sizing": 
+    "Care and Cleaning": 
+    "Lining Material": 
+    "Insole Material": 
+    "Features": 
+    "Upper Shoe Material": 
+    "Sole Material": 
+    "Heel": 
+    "Shoe Width": 
+    "Footwear outsole details":
+
 '''
 
 # Import necessary modules
@@ -54,18 +68,73 @@ def get_title(driver):
     for span in spans:
         return span.text
 
+def get_size(driver):
+
+    size_divs = driver.find_elements_by_css_selector('div[data-test=VariationSelector]')
+    size_div = size_divs[1]
+
+    divs = size_div.find_elements_by_css_selector('div')[1].find_elements_by_css_selector('div')
+    
+    for div in divs:
+        # button = div.find_element(By.TAG_NAME, 'button')
+        # print(button.text)
+        print(div.text)
+
+    # print(description)
+
+    return None
+
+def get_price(driver):
+
+    price_element = driver.find_element_by_css_selector('div[data-test="product-price"]')
+    price = price_element.text
+    # print(price)
+
+    return price
+
+def get_description(driver):
+
+    description_elements = driver.find_elements_by_css_selector('div#product-details-tabs div.h-margin-v-default')
+    description = description_elements[1].text
+    # print(description)
+
+    return description
+
+# productDetailsTabs-itemDetailsTab
+def get_product_details_elem(driver):
+
+    # div[data-test="productDetailsTabs-itemDetailsTab"] div[data-test="detailsTab"] 
+    price_element = driver.find_elements_by_css_selector('div#specAndDescript div div')
+
+    for div in price_element:
+        print(div.text)
+
+    # specAndDescript
+    # print(price_element.text)
+
+    return 
+
 
 def get_info():
 
     driver.get(PAGE)
 
-    title = get_title(driver)
-    print(title)
+    url = PAGE
+
+    # title = get_title(driver)
+    # print(title)
 
     # driver.find_element_by_xpath('//input[@node-type="searchInput"]')
-    price_element = driver.find_element_by_css_selector('div[data-test="product-price"]')
-    price = price_element.text
-    print(price)
+    # price = get_price(driver)
+
+    # Description
+    # description = get_description(driver)
+
+    # 
+    # get_size(driver)
+    
+    get_product_details_elem(driver)
+
 
     driver.quit()
 
