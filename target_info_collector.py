@@ -27,11 +27,6 @@ Things to get:
     "Footwear outsole details": "Non Marking Outsole"
 
 Pending:
-    "tcin": 
-    "upc": 
-    "Sizing": 
-    "Care and Cleaning": 
-    "Lining Material": 
     "Insole Material": 
     "Features": 
     "Upper Shoe Material": 
@@ -48,18 +43,30 @@ Testing URLs:
 # Import necessary modules
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-import csv
+# from selenium.webdriver.support.ui import WebDriverWait
+# from selenium.webdriver.support import expected_conditions as EC
+# import requests
+# from bs4 import BeautifulSoup
+from dotenv import load_dotenv
+import os
+from typing import AnyStr
+import json
+# from selenium.webdriver.chrome.options import Options
+option = webdriver.ChromeOptions()
 
-PATH    = "/Users/str-kwml0011/.chromedriver/chromedriver"
-driver  = webdriver.Chrome(PATH)
+option.headless = True
+option.add_argument('window-size=1400,600')
+option.add_experimental_option("excludeSwitches", ["enable-automation"])
+option.add_experimental_option('useAutomationExtension', False)
 
-PAGE = "https://www.target.com/p/women-s-neida-eva-two-band-slide-sandals-shade-shore/-/A-80776263"
+load_dotenv()
 
-def get_currency(price):
+DRIVER_PATH     = os.environ.get('DRIVER_PATH')
 
-    return None
+
+def get_currency(driver):
+
+    return "USD"
 
 def get_title(driver):
 
@@ -103,58 +110,53 @@ def get_description(driver):
 
     return description
 
-# productDetailsTabs-itemDetailsTab
-def get_product_details_elem(driver):
+def get_specs(driver):
 
-    # div[data-test="productDetailsTabs-itemDetailsTab"] div[data-test="detailsTab"] 
-    price_element = driver.find_elements_by_css_selector('div#specAndDescript div div')
+    # Get the button and click to show more
+    button = driver.find_element_by_css_selector('div#tabContent-tab-Details div button')
+    button.click()
 
-    for div in price_element:
-        print(div.text)
+    specs = driver.find_element_by_css_selector('div#specAndDescript div:nth-child(1) div')
+    specs =  specs.text.split('\n')
+    specs = [spec for spec in specs if spec != 'Specifications']
 
-    # specAndDescript
-    # print(price_element.text)
+    final_dict = {}
 
-    return 
+    for spec in specs:
+        current_list    = spec.split(':')
+        key             = current_list[0]
+        value           = current_list[1]
 
-def show_more(driver):
+        final_dict[key] = value
 
-    price_element = driver.find_element_by_css_selector('div[data-test="pdpBottomOfTheFoldContent"]')
-
-    return None
+    return final_dict
 
 
-def get_links():
+def get_single_page(page: AnyStr):
 
-    return None
+    driver  = webdriver.Chrome(DRIVER_PATH, options= option)
 
-def get_info():
+    driver.maximize_window()
+    driver.get(page)
 
-    driver.get(PAGE)
+    data                = get_specs(driver)
+    data['price']       = get_price(driver)
+    data['description'] = get_description(driver)
+    data['currency']    = get_currency(driver)
+    data['title']       = get_title(driver)
 
-    url = PAGE
+    # print(data)
 
-    # title = get_title(driver)
-    # print(title)
-
-    # driver.find_element_by_xpath('//input[@node-type="searchInput"]')
-    # price = get_price(driver)
-
-    # Description
-    # description = get_description(driver)
-
-    # 
-    # get_size(driver)
-    
-    get_product_details_elem(driver)
-
+    print(json.dumps(data, indent = 4))
 
     driver.quit()
 
+    return data
 
 def startpy():
 
-    get_info()
+    page            = os.environ.get('PAGE')
+    get_single_page(page)
     
 if __name__ == '__main__':
     startpy()
