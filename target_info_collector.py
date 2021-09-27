@@ -47,7 +47,7 @@ from selenium.webdriver.common.by import By
 # from selenium.webdriver.support import expected_conditions as EC
 # import requests
 # from bs4 import BeautifulSoup
-from dotenv import load_dotenv
+from env_reader import DRIVER_PATH, PAGE
 import os
 from typing import AnyStr
 import json
@@ -58,10 +58,6 @@ option.headless = True
 option.add_argument('window-size=1400,600')
 option.add_experimental_option("excludeSwitches", ["enable-automation"])
 option.add_experimental_option('useAutomationExtension', False)
-
-load_dotenv()
-
-DRIVER_PATH     = os.environ.get('DRIVER_PATH')
 
 
 def get_currency(driver):
