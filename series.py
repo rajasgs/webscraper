@@ -57,12 +57,12 @@ def get_links(page: AnyStr):
             if(not link):
                 continue
 
-            if("https://www.target.com/p/" in link):
+            if(link.startswith( "https://www.target.com/p/" )):
                 print(link)
 
                 available_links.append(link)
 
-    driver.quit()
+    # driver.quit()
 
     return available_links
 
@@ -77,12 +77,12 @@ def startpy():
 
     for link in links:
 
-        data            = t_info_collctor.get_single_page(driver, page)
+        data            = t_info_collctor.get_single_page(driver, link)
         print(json.dumps(data, indent = 4))
 
         print('-' * 100)
 
-    driver.quit()
+    # driver.quit()
     
 if __name__ == '__main__':
     startpy()

@@ -132,6 +132,8 @@ class TargetInfoCollector():
 
         # driver  = webdriver.Chrome(DRIVER_PATH, options= option)
 
+        print(f'Finding page : {page}')
+
         driver.maximize_window()
         driver.get(page)
 
@@ -158,7 +160,7 @@ def startpy():
     data            = target_info_collctor.get_single_page(driver, page)
     print(json.dumps(data, indent = 4))
 
-    driver.quit()
+    # driver.quit()
 
 
     
