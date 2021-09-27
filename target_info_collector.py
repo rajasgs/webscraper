@@ -54,13 +54,6 @@ import json
 from driver_options import driver, option
 # from selenium.webdriver.chrome.options import Options
 
-# option = webdriver.ChromeOptions()
-
-# option.headless = True
-# option.add_argument('window-size=1400,600')
-# option.add_experimental_option("excludeSwitches", ["enable-automation"])
-# option.add_experimental_option('useAutomationExtension', False)
-
 
 class TargetInfoCollector():
 
@@ -135,9 +128,9 @@ class TargetInfoCollector():
         return final_dict
 
 
-    def get_single_page(self, page: AnyStr):
+    def get_single_page(self, driver, page: AnyStr):
 
-        driver  = webdriver.Chrome(DRIVER_PATH, options= option)
+        # driver  = webdriver.Chrome(DRIVER_PATH, options= option)
 
         driver.maximize_window()
         driver.get(page)
@@ -152,7 +145,7 @@ class TargetInfoCollector():
 
         # print(json.dumps(data, indent = 4))
 
-        driver.quit()
+        # driver.quit()
 
         return data
 
@@ -162,8 +155,10 @@ def startpy():
 
     target_info_collctor = TargetInfoCollector()
 
-    data            = target_info_collctor.get_single_page(page)
+    data            = target_info_collctor.get_single_page(driver, page)
     print(json.dumps(data, indent = 4))
+
+    driver.quit()
 
 
     
