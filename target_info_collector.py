@@ -52,6 +52,7 @@ import os
 from typing import AnyStr
 import json
 from driver_options import driver, option
+import re
 # from selenium.webdriver.chrome.options import Options
 
 
@@ -59,10 +60,6 @@ class TargetInfoCollector():
 
     def __init__(self, **kwargs):
         pass
-
-    def get_currency(self, driver):
-
-        return "USD"
 
     def get_title(self, driver):
 
@@ -98,6 +95,15 @@ class TargetInfoCollector():
 
         return price
 
+    # This can be improved by using REGEX
+    def get_price_number_and_currency(self, price):
+
+        if('$' in price):
+            currency    = "USD"
+            price_val = float(re.sub(r'[^0-9.]', '', price))
+
+        return price_val, currency
+
     def get_description(self, driver):
 
         description_elements = driver.find_elements_by_css_selector('div#product-details-tabs div.h-margin-v-default')
@@ -125,7 +131,11 @@ class TargetInfoCollector():
 
             final_dict[key] = value
 
-        return final_dict
+        spec_dict = {
+            "specs" : final_dict
+        }
+
+        return spec_dict
 
 
     def get_single_page(self, driver, page: AnyStr):
@@ -140,8 +150,11 @@ class TargetInfoCollector():
         data                = self.get_specs(driver)
         data['price']       = self.get_price(driver)
         data['description'] = self.get_description(driver)
-        data['currency']    = self.get_currency(driver)
+        # data['currency']    = self.get_currency(driver, data['price'])
+        
         data['title']       = self.get_title(driver)
+
+        data['price'], data['currency']  = self.get_price_number_and_currency(data['price'])
 
         # print(data)
 
