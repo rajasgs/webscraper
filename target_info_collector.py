@@ -51,13 +51,15 @@ from env_reader import DRIVER_PATH, PAGE
 import os
 from typing import AnyStr
 import json
+from driver_options import driver, option
 # from selenium.webdriver.chrome.options import Options
-option = webdriver.ChromeOptions()
 
-option.headless = True
-option.add_argument('window-size=1400,600')
-option.add_experimental_option("excludeSwitches", ["enable-automation"])
-option.add_experimental_option('useAutomationExtension', False)
+# option = webdriver.ChromeOptions()
+
+# option.headless = True
+# option.add_argument('window-size=1400,600')
+# option.add_experimental_option("excludeSwitches", ["enable-automation"])
+# option.add_experimental_option('useAutomationExtension', False)
 
 
 def get_currency(driver):

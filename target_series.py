@@ -56,7 +56,7 @@ import csv
 import os
 
 from env_reader import PAGE
-from driver_options import driver
+from driver_options import driver, option
 
 def get_links(page: AnyStr):
 
