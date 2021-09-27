@@ -53,6 +53,7 @@ from typing import AnyStr
 import json
 from driver_options import driver, option
 import re
+import selenium
 # from selenium.webdriver.chrome.options import Options
 
 
@@ -114,26 +115,30 @@ class TargetInfoCollector():
 
     def get_specs(self, driver):
 
-        # Get the button and click to show more
-        button = driver.find_element_by_css_selector('div#tabContent-tab-Details div button')
-        button.click()
+        try:
+            # Get the button and click to show more
+            button = driver.find_element_by_css_selector('div#tabContent-tab-Details div button')
+            button.click()
 
-        specs = driver.find_element_by_css_selector('div#specAndDescript div:nth-child(1) div')
-        specs =  specs.text.split('\n')
-        specs = [spec for spec in specs if spec != 'Specifications']
+            specs = driver.find_element_by_css_selector('div#specAndDescript div:nth-child(1) div')
+            specs =  specs.text.split('\n')
+            specs = [spec for spec in specs if spec != 'Specifications']
 
-        final_dict = {}
+            final_dict = {}
 
-        for spec in specs:
-            current_list    = spec.split(':')
-            key             = current_list[0]
-            value           = current_list[1]
+            for spec in specs:
+                current_list    = spec.split(':')
+                key             = current_list[0]
+                value           = current_list[1]
 
-            final_dict[key] = value
+                final_dict[key] = value
 
-        spec_dict = {
-            "specs" : final_dict
-        }
+            spec_dict = {
+                "specs" : final_dict
+            }
+        except selenium.common.exceptions.NoSuchElementException as er:
+            print(er)
+            return {"specs" : "None"}
 
         return spec_dict
 

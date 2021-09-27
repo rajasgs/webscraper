@@ -60,6 +60,8 @@ def get_links(page: AnyStr):
             if(link.startswith( "https://www.target.com/p/" )):
                 print(link)
 
+                link = link.split('?')[0]
+
                 available_links.append(link)
 
     # driver.quit()

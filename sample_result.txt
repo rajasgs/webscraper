@@ -1,0 +1,894 @@
+{
+    "specs": {
+        "Sizing": " Womens",
+        "Material": " 68% Cotton, 16% Recycled Polyester, 15% Acrylic, 1% Spandex",
+        "Fit": " Relaxed Fit",
+        "Length": " Below Hip",
+        "Garment Style": " Long Sleeve, Open Front",
+        "Neckline": " Open",
+        "Cuff Type": " Ribbed Cuff",
+        "Pockets": " Front Patch Pocket",
+        "Care and Cleaning": " Machine Wash & Line Dry or Lay Flat to Dry",
+        "TCIN": " 82256065",
+        "UPC": " 195994041426",
+        "Item Number (DPCI)": " 013-03-5519",
+        "Origin": " Imported"
+    },
+    "price": 29.99,
+    "description": "Add a stylish finish to your cozy look with this Duster Long-Sleeve Cardigan from Universal Thread\u2122. The open-front cardigan is made from soft and stretchy fabric for comfortable wear, and it has a regular fit that falls below the hip for easy and effortless layering. The cardigan has allover ribbed detailing with hem for a neat, snug finish, while front patch pockets add functional flair to your look. Pair it with a variety of pieces from your closet for comfy days and evenings when the weather changes gear.",
+    "title": "Women's Duster Cardigan - Universal Thread\u2122",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
+Finding page : https://www.target.com/p/women-s-duster-cardigan-universal-thread/-/A-82595940
+{
+    "specs": {
+        "Sizing": " Womens",
+        "Material": " 68% Cotton, 16% Recycled Polyester, 15% Acrylic, 1% Spandex",
+        "Fit": " Relaxed Fit",
+        "Length": " Below Hip",
+        "Garment Style": " Long Sleeve, Open Front",
+        "Neckline": " Open",
+        "Cuff Type": " Ribbed Cuff",
+        "Pockets": " Front Patch Pocket",
+        "Care and Cleaning": " Machine Wash & Line Dry or Lay Flat to Dry",
+        "TCIN": " 82256065",
+        "UPC": " 195994041426",
+        "Item Number (DPCI)": " 013-03-5519",
+        "Origin": " Imported"
+    },
+    "price": 29.99,
+    "description": "Add a stylish finish to your cozy look with this Duster Long-Sleeve Cardigan from Universal Thread\u2122. The open-front cardigan is made from soft and stretchy fabric for comfortable wear, and it has a regular fit that falls below the hip for easy and effortless layering. The cardigan has allover ribbed detailing with hem for a neat, snug finish, while front patch pockets add functional flair to your look. Pair it with a variety of pieces from your closet for comfy days and evenings when the weather changes gear.",
+    "title": "Women's Duster Cardigan - Universal Thread\u2122",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
+Finding page : https://www.target.com/p/women-s-duster-cardigan-universal-thread/-/A-82595940
+{
+    "specs": {
+        "Sizing": " Womens",
+        "Material": " 68% Cotton, 16% Recycled Polyester, 15% Acrylic, 1% Spandex",
+        "Fit": " Relaxed Fit",
+        "Length": " Below Hip",
+        "Garment Style": " Long Sleeve, Open Front",
+        "Neckline": " Open",
+        "Cuff Type": " Ribbed Cuff",
+        "Pockets": " Front Patch Pocket",
+        "Care and Cleaning": " Machine Wash & Line Dry or Lay Flat to Dry",
+        "TCIN": " 82256065",
+        "UPC": " 195994041426",
+        "Item Number (DPCI)": " 013-03-5519",
+        "Origin": " Imported"
+    },
+    "price": 29.99,
+    "description": "Add a stylish finish to your cozy look with this Duster Long-Sleeve Cardigan from Universal Thread\u2122. The open-front cardigan is made from soft and stretchy fabric for comfortable wear, and it has a regular fit that falls below the hip for easy and effortless layering. The cardigan has allover ribbed detailing with hem for a neat, snug finish, while front patch pockets add functional flair to your look. Pair it with a variety of pieces from your closet for comfy days and evenings when the weather changes gear.",
+    "title": "Women's Duster Cardigan - Universal Thread\u2122",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
+Finding page : https://www.target.com/p/women-s-cable-knit-open-front-cardigan-a-new-day/-/A-83707464
+{
+    "specs": {
+        "Sizing": " Womens",
+        "Material": " 75% Acrylic, 25% Nylon",
+        "Fit": " Casual Fit",
+        "Length": " Below Hip",
+        "Garment Style": " Long Sleeve, Open Front",
+        "Neckline": " Open",
+        "Cuff Type": " Ribbed Cuff",
+        "Pockets": " Side Pockets",
+        "Fabric Weight Type": " Heavyweight Fabric",
+        "Care and Cleaning": " Machine Wash & Tumble Dry",
+        "TCIN": " 82389185",
+        "UPC": " 191904758163",
+        "Item Number (DPCI)": " 018-13-2256",
+        "Origin": " Imported"
+    },
+    "price": 34.99,
+    "description": "Warm up in style wearing this Cable Knit Open-Front Cardigan from A New Day\u2122. This long-sleeve women's cardigan in a solid color makes for the perfect staple layering piece over your smart-casual ensembles. It features a casual longline silhouette, a classic cable knit design, and an open front for easy, effortless layering. The soft construction offers a comfortable fit, while the handy side pockets add functional flair. Plus, the ribbed cuffs give it a snug finish. Layer over dresses and tops to create versatile looks.",
+    "title": "Women's Cable Knit Open-Front Cardigan - A New Day\u2122",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
+Finding page : https://www.target.com/p/women-s-cable-knit-open-front-cardigan-a-new-day/-/A-83707464
+{
+    "specs": {
+        "Sizing": " Womens",
+        "Material": " 75% Acrylic, 25% Nylon",
+        "Fit": " Casual Fit",
+        "Length": " Below Hip",
+        "Garment Style": " Long Sleeve, Open Front",
+        "Neckline": " Open",
+        "Cuff Type": " Ribbed Cuff",
+        "Pockets": " Side Pockets",
+        "Fabric Weight Type": " Heavyweight Fabric",
+        "Care and Cleaning": " Machine Wash & Tumble Dry",
+        "TCIN": " 82389185",
+        "UPC": " 191904758163",
+        "Item Number (DPCI)": " 018-13-2256",
+        "Origin": " Imported"
+    },
+    "price": 34.99,
+    "description": "Warm up in style wearing this Cable Knit Open-Front Cardigan from A New Day\u2122. This long-sleeve women's cardigan in a solid color makes for the perfect staple layering piece over your smart-casual ensembles. It features a casual longline silhouette, a classic cable knit design, and an open front for easy, effortless layering. The soft construction offers a comfortable fit, while the handy side pockets add functional flair. Plus, the ribbed cuffs give it a snug finish. Layer over dresses and tops to create versatile looks.",
+    "title": "Women's Cable Knit Open-Front Cardigan - A New Day\u2122",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
+Finding page : https://www.target.com/p/women-s-cable-knit-open-front-cardigan-a-new-day/-/A-83707464
+{
+    "specs": {
+        "Sizing": " Womens",
+        "Material": " 75% Acrylic, 25% Nylon",
+        "Fit": " Casual Fit",
+        "Length": " Below Hip",
+        "Garment Style": " Long Sleeve, Open Front",
+        "Neckline": " Open",
+        "Cuff Type": " Ribbed Cuff",
+        "Pockets": " Side Pockets",
+        "Fabric Weight Type": " Heavyweight Fabric",
+        "Care and Cleaning": " Machine Wash & Tumble Dry",
+        "TCIN": " 82389185",
+        "UPC": " 191904758163",
+        "Item Number (DPCI)": " 018-13-2256",
+        "Origin": " Imported"
+    },
+    "price": 34.99,
+    "description": "Warm up in style wearing this Cable Knit Open-Front Cardigan from A New Day\u2122. This long-sleeve women's cardigan in a solid color makes for the perfect staple layering piece over your smart-casual ensembles. It features a casual longline silhouette, a classic cable knit design, and an open front for easy, effortless layering. The soft construction offers a comfortable fit, while the handy side pockets add functional flair. Plus, the ribbed cuffs give it a snug finish. Layer over dresses and tops to create versatile looks.",
+    "title": "Women's Cable Knit Open-Front Cardigan - A New Day\u2122",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
+Finding page : https://www.target.com/p/women-s-quilted-utility-jacket-universal-thread/-/A-83699583
+{
+    "specs": {
+        "Sizing": " Womens",
+        "Material": " 98% Cotton, 2% Spandex",
+        "Lining Fabric": " Taffeta",
+        "Material Lining": " 100% Recycled Polyester",
+        "Hem Style": " Ribbed Hem",
+        "Fit": " Easy Fit",
+        "Length": " At Waist",
+        "Garment Style": " Long Sleeve, Front Full Length Zipper",
+        "Cuff Type": " Ribbed Cuff",
+        "Fill": " 100% Recycled Polyester",
+        "Pockets": " Front Flap Pocket",
+        "Fabric Weight Type": " Lightweight Fabric",
+        "Number of Pockets": " 2",
+        "Garment lapel details": " No Lapels",
+        "Care and Cleaning": " Machine Wash & Tumble Dry",
+        "TCIN": " 82245295",
+        "UPC": " 191904676757",
+        "Item Number (DPCI)": " 283-01-1347",
+        "Origin": " Imported"
+    },
+    "price": 45.0,
+    "description": "Layer up your look for any cool-weather outing with this Quilted Utility Jacket from Universal Thread\u2122. Showcasing allover stitched detailing for a sleek look, this long-sleeve quilted jacket makes a stylish layering piece in your outerwear closet. The front full-length zipper closure with snaps down the front let you choose to wear it open or closed, while ribbed hem and cuffs lend a snug fit. The front flap pockets lend functional flair, while the soft, stretchy fabric with taffeta lining and light padded design keep you in cozy comfort. Wear it over anything from dresses to T-shirts and jeans when temperature drops.",
+    "title": "Women's Quilted Utility Jacket - Universal Thread\u2122",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
+Finding page : https://www.target.com/p/women-s-quilted-utility-jacket-universal-thread/-/A-83699583
+{
+    "specs": {
+        "Sizing": " Womens",
+        "Material": " 98% Cotton, 2% Spandex",
+        "Lining Fabric": " Taffeta",
+        "Material Lining": " 100% Recycled Polyester",
+        "Hem Style": " Ribbed Hem",
+        "Fit": " Easy Fit",
+        "Length": " At Waist",
+        "Garment Style": " Long Sleeve, Front Full Length Zipper",
+        "Cuff Type": " Ribbed Cuff",
+        "Fill": " 100% Recycled Polyester",
+        "Pockets": " Front Flap Pocket",
+        "Fabric Weight Type": " Lightweight Fabric",
+        "Number of Pockets": " 2",
+        "Garment lapel details": " No Lapels",
+        "Care and Cleaning": " Machine Wash & Tumble Dry",
+        "TCIN": " 82245295",
+        "UPC": " 191904676757",
+        "Item Number (DPCI)": " 283-01-1347",
+        "Origin": " Imported"
+    },
+    "price": 45.0,
+    "description": "Layer up your look for any cool-weather outing with this Quilted Utility Jacket from Universal Thread\u2122. Showcasing allover stitched detailing for a sleek look, this long-sleeve quilted jacket makes a stylish layering piece in your outerwear closet. The front full-length zipper closure with snaps down the front let you choose to wear it open or closed, while ribbed hem and cuffs lend a snug fit. The front flap pockets lend functional flair, while the soft, stretchy fabric with taffeta lining and light padded design keep you in cozy comfort. Wear it over anything from dresses to T-shirts and jeans when temperature drops.",
+    "title": "Women's Quilted Utility Jacket - Universal Thread\u2122",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
+Finding page : https://www.target.com/p/women-s-quilted-utility-jacket-universal-thread/-/A-83699583
+{
+    "specs": {
+        "Sizing": " Womens",
+        "Material": " 98% Cotton, 2% Spandex",
+        "Lining Fabric": " Taffeta",
+        "Material Lining": " 100% Recycled Polyester",
+        "Hem Style": " Ribbed Hem",
+        "Fit": " Easy Fit",
+        "Length": " At Waist",
+        "Garment Style": " Long Sleeve, Front Full Length Zipper",
+        "Cuff Type": " Ribbed Cuff",
+        "Fill": " 100% Recycled Polyester",
+        "Pockets": " Front Flap Pocket",
+        "Fabric Weight Type": " Lightweight Fabric",
+        "Number of Pockets": " 2",
+        "Garment lapel details": " No Lapels",
+        "Care and Cleaning": " Machine Wash & Tumble Dry",
+        "TCIN": " 82245295",
+        "UPC": " 191904676757",
+        "Item Number (DPCI)": " 283-01-1347",
+        "Origin": " Imported"
+    },
+    "price": 45.0,
+    "description": "Layer up your look for any cool-weather outing with this Quilted Utility Jacket from Universal Thread\u2122. Showcasing allover stitched detailing for a sleek look, this long-sleeve quilted jacket makes a stylish layering piece in your outerwear closet. The front full-length zipper closure with snaps down the front let you choose to wear it open or closed, while ribbed hem and cuffs lend a snug fit. The front flap pockets lend functional flair, while the soft, stretchy fabric with taffeta lining and light padded design keep you in cozy comfort. Wear it over anything from dresses to T-shirts and jeans when temperature drops.",
+    "title": "Women's Quilted Utility Jacket - Universal Thread\u2122",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
+Finding page : https://www.target.com/p/women-s-hooded-quilted-jacket-wild-fable/-/A-82626565
+{
+    "specs": {
+        "Sizing": " Womens",
+        "Material": " 60% Cotton, 40% Polyester",
+        "Fit": " Oversized",
+        "Length": " At Hip",
+        "Garment Style": " Long Sleeve, Front Full Length Zipper",
+        "Cuff Type": " Banded Cuff",
+        "Pockets": " Front Patch Pocket",
+        "Number of Pockets": " 2",
+        "Garment lapel details": " No Lapels",
+        "Care and Cleaning": " Machine Wash & Tumble Dry",
+        "TCIN": " 82321372",
+        "UPC": " 195994028489",
+        "Item Number (DPCI)": " 331-06-2058",
+        "Origin": " Imported"
+    },
+    "price": 40.0,
+    "description": "Solid-hued jacket with an attached hood and elastic-cinched long sleeves. Tailored in an oversized silhouette with quilted, diamond-stitched construction. Made of a soft and lightweight fabric to keep you warm and cozy. Front full-length zipper for easy dressing and layering, and patch pockets allow you to keep your essentials close by while freeing up your hands.",
+    "title": "Women's Hooded Quilted Jacket - Wild Fable\u2122",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
+Finding page : https://www.target.com/p/women-s-hooded-quilted-jacket-wild-fable/-/A-82626565
+{
+    "specs": {
+        "Sizing": " Womens",
+        "Material": " 60% Cotton, 40% Polyester",
+        "Fit": " Oversized",
+        "Length": " At Hip",
+        "Garment Style": " Long Sleeve, Front Full Length Zipper",
+        "Cuff Type": " Banded Cuff",
+        "Pockets": " Front Patch Pocket",
+        "Number of Pockets": " 2",
+        "Garment lapel details": " No Lapels",
+        "Care and Cleaning": " Machine Wash & Tumble Dry",
+        "TCIN": " 82321372",
+        "UPC": " 195994028489",
+        "Item Number (DPCI)": " 331-06-2058",
+        "Origin": " Imported"
+    },
+    "price": 40.0,
+    "description": "Solid-hued jacket with an attached hood and elastic-cinched long sleeves. Tailored in an oversized silhouette with quilted, diamond-stitched construction. Made of a soft and lightweight fabric to keep you warm and cozy. Front full-length zipper for easy dressing and layering, and patch pockets allow you to keep your essentials close by while freeing up your hands.",
+    "title": "Women's Hooded Quilted Jacket - Wild Fable\u2122",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
+Finding page : https://www.target.com/p/women-s-hooded-quilted-jacket-wild-fable/-/A-82626565
+{
+    "specs": {
+        "Sizing": " Womens",
+        "Material": " 60% Cotton, 40% Polyester",
+        "Fit": " Oversized",
+        "Length": " At Hip",
+        "Garment Style": " Long Sleeve, Front Full Length Zipper",
+        "Cuff Type": " Banded Cuff",
+        "Pockets": " Front Patch Pocket",
+        "Number of Pockets": " 2",
+        "Garment lapel details": " No Lapels",
+        "Care and Cleaning": " Machine Wash & Tumble Dry",
+        "TCIN": " 82321372",
+        "UPC": " 195994028489",
+        "Item Number (DPCI)": " 331-06-2058",
+        "Origin": " Imported"
+    },
+    "price": 40.0,
+    "description": "Solid-hued jacket with an attached hood and elastic-cinched long sleeves. Tailored in an oversized silhouette with quilted, diamond-stitched construction. Made of a soft and lightweight fabric to keep you warm and cozy. Front full-length zipper for easy dressing and layering, and patch pockets allow you to keep your essentials close by while freeing up your hands.",
+    "title": "Women's Hooded Quilted Jacket - Wild Fable\u2122",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
+Finding page : https://www.target.com/p/women-s-chore-jacket-universal-thread/-/A-82719004
+{
+    "specs": {
+        "Sizing": " Womens",
+        "Material": " 98% Cotton, 2% Elastane",
+        "Fit": " Regular Fit",
+        "Length": " At Hip",
+        "Garment Style": " Long Sleeve, Front Button Down",
+        "Cuff Type": " No Cuff",
+        "Pockets": " Chest Patch Pocket, Front Patch Pocket",
+        "Number of Pockets": " 4",
+        "Garment lapel details": " Wide Lapels",
+        "Care and Cleaning": " Machine Wash & Tumble Dry",
+        "TCIN": " 82428157",
+        "UPC": " 195994194733",
+        "Item Number (DPCI)": " 013-06-0597",
+        "Origin": " Imported"
+    },
+    "price": 34.99,
+    "description": "Stay stylish and feel your absolute best throughout the chilly season with the Long-Sleeve Chore Jacket from Universal Thread\u2122. This button-down chore jacket is made from soft and stretchy fabric for comfortable wear, and a regular fit that falls at hip offers easy and effortless layering. The front button-down makes for a classic look, while multiple front pockets add functional flair. Pair with a variety of looks for comfy days and evenings when the temps fall.",
+    "title": "Women's Chore Jacket - Universal Thread\u2122",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
+Finding page : https://www.target.com/p/women-s-chore-jacket-universal-thread/-/A-82719004
+{
+    "specs": {
+        "Sizing": " Womens",
+        "Material": " 98% Cotton, 2% Elastane",
+        "Fit": " Regular Fit",
+        "Length": " At Hip",
+        "Garment Style": " Long Sleeve, Front Button Down",
+        "Cuff Type": " No Cuff",
+        "Pockets": " Chest Patch Pocket, Front Patch Pocket",
+        "Number of Pockets": " 4",
+        "Garment lapel details": " Wide Lapels",
+        "Care and Cleaning": " Machine Wash & Tumble Dry",
+        "TCIN": " 82428157",
+        "UPC": " 195994194733",
+        "Item Number (DPCI)": " 013-06-0597",
+        "Origin": " Imported"
+    },
+    "price": 34.99,
+    "description": "Stay stylish and feel your absolute best throughout the chilly season with the Long-Sleeve Chore Jacket from Universal Thread\u2122. This button-down chore jacket is made from soft and stretchy fabric for comfortable wear, and a regular fit that falls at hip offers easy and effortless layering. The front button-down makes for a classic look, while multiple front pockets add functional flair. Pair with a variety of looks for comfy days and evenings when the temps fall.",
+    "title": "Women's Chore Jacket - Universal Thread\u2122",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
+Finding page : https://www.target.com/p/women-s-chore-jacket-universal-thread/-/A-82719004
+{
+    "specs": {
+        "Sizing": " Womens",
+        "Material": " 98% Cotton, 2% Elastane",
+        "Fit": " Regular Fit",
+        "Length": " At Hip",
+        "Garment Style": " Long Sleeve, Front Button Down",
+        "Cuff Type": " No Cuff",
+        "Pockets": " Chest Patch Pocket, Front Patch Pocket",
+        "Number of Pockets": " 4",
+        "Garment lapel details": " Wide Lapels",
+        "Care and Cleaning": " Machine Wash & Tumble Dry",
+        "TCIN": " 82428157",
+        "UPC": " 195994194733",
+        "Item Number (DPCI)": " 013-06-0597",
+        "Origin": " Imported"
+    },
+    "price": 34.99,
+    "description": "Stay stylish and feel your absolute best throughout the chilly season with the Long-Sleeve Chore Jacket from Universal Thread\u2122. This button-down chore jacket is made from soft and stretchy fabric for comfortable wear, and a regular fit that falls at hip offers easy and effortless layering. The front button-down makes for a classic look, while multiple front pockets add functional flair. Pair with a variety of looks for comfy days and evenings when the temps fall.",
+    "title": "Women's Chore Jacket - Universal Thread\u2122",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
+Finding page : https://www.target.com/p/women-s-quilted-jacket-universal-thread/-/A-82757889
+{
+    "specs": {
+        "Sizing": " Womens",
+        "Material": " 65% Cotton, 35% Rayon",
+        "Material Lining": " 100% Cotton",
+        "Fit": " Casual Fit",
+        "Length": " At Waist",
+        "Garment Style": " Long Sleeve, Front Button",
+        "Cuff Type": " No Cuff",
+        "Fill": " 100% Polyester",
+        "Pockets": " Front Patch Pocket",
+        "Number of Pockets": " 2",
+        "Garment lapel details": " No Lapels",
+        "Care and Cleaning": " Machine Wash & Tumble Dry",
+        "TCIN": " 82628995",
+        "UPC": " 195994290213",
+        "Item Number (DPCI)": " 013-06-0653",
+        "Origin": " Imported"
+    },
+    "price": 34.99,
+    "description": "The Quilted Jacket from Universal Thread\u2122 is a fun addition to your fall and winter collection. The long-sleeve jacket for women is made from a soft cotton-blend fabric with 100% cotton lining, and it features a quilted construction with a channel-stitched design for enhanced warmth with an elevated look. The allover printed pattern adds a touch of lovely flair to this casual-fit jacket that you can effortlessly throw over your favorite outfits, while the full-length button-loop closure on the front allows you to adjust the coverage and warmth. Plus, the functional diagonal pockets add a playful twist to the simple patch-pocket design.",
+    "title": "Women's Quilted Jacket - Universal Thread\u2122",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
+Finding page : https://www.target.com/p/women-s-quilted-jacket-universal-thread/-/A-82757889
+{
+    "specs": {
+        "Sizing": " Womens",
+        "Material": " 65% Cotton, 35% Rayon",
+        "Material Lining": " 100% Cotton",
+        "Fit": " Casual Fit",
+        "Length": " At Waist",
+        "Garment Style": " Long Sleeve, Front Button",
+        "Cuff Type": " No Cuff",
+        "Fill": " 100% Polyester",
+        "Pockets": " Front Patch Pocket",
+        "Number of Pockets": " 2",
+        "Garment lapel details": " No Lapels",
+        "Care and Cleaning": " Machine Wash & Tumble Dry",
+        "TCIN": " 82628995",
+        "UPC": " 195994290213",
+        "Item Number (DPCI)": " 013-06-0653",
+        "Origin": " Imported"
+    },
+    "price": 34.99,
+    "description": "The Quilted Jacket from Universal Thread\u2122 is a fun addition to your fall and winter collection. The long-sleeve jacket for women is made from a soft cotton-blend fabric with 100% cotton lining, and it features a quilted construction with a channel-stitched design for enhanced warmth with an elevated look. The allover printed pattern adds a touch of lovely flair to this casual-fit jacket that you can effortlessly throw over your favorite outfits, while the full-length button-loop closure on the front allows you to adjust the coverage and warmth. Plus, the functional diagonal pockets add a playful twist to the simple patch-pocket design.",
+    "title": "Women's Quilted Jacket - Universal Thread\u2122",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
+Finding page : https://www.target.com/p/women-s-quilted-jacket-universal-thread/-/A-82757889
+{
+    "specs": {
+        "Sizing": " Womens",
+        "Material": " 65% Cotton, 35% Rayon",
+        "Material Lining": " 100% Cotton",
+        "Fit": " Casual Fit",
+        "Length": " At Waist",
+        "Garment Style": " Long Sleeve, Front Button",
+        "Cuff Type": " No Cuff",
+        "Fill": " 100% Polyester",
+        "Pockets": " Front Patch Pocket",
+        "Number of Pockets": " 2",
+        "Garment lapel details": " No Lapels",
+        "Care and Cleaning": " Machine Wash & Tumble Dry",
+        "TCIN": " 82628995",
+        "UPC": " 195994290213",
+        "Item Number (DPCI)": " 013-06-0653",
+        "Origin": " Imported"
+    },
+    "price": 34.99,
+    "description": "The Quilted Jacket from Universal Thread\u2122 is a fun addition to your fall and winter collection. The long-sleeve jacket for women is made from a soft cotton-blend fabric with 100% cotton lining, and it features a quilted construction with a channel-stitched design for enhanced warmth with an elevated look. The allover printed pattern adds a touch of lovely flair to this casual-fit jacket that you can effortlessly throw over your favorite outfits, while the full-length button-loop closure on the front allows you to adjust the coverage and warmth. Plus, the functional diagonal pockets add a playful twist to the simple patch-pocket design.",
+    "title": "Women's Quilted Jacket - Universal Thread\u2122",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
+Finding page : https://www.target.com/p/women-s-open-front-cardigan-universal-thread/-/A-82515559
+{
+    "specs": {
+        "Sizing": " Womens",
+        "Material": " 100% Cotton",
+        "Hem Style": " High Low Hem",
+        "Fit": " Casual Fit",
+        "Length": " Below Hip",
+        "Garment Style": " Long Sleeve, Open Front",
+        "Neckline": " Open",
+        "Cuff Type": " Ribbed Cuff",
+        "Garment Details": " Front Placket Textured Stitching",
+        "Pockets": " Front Patch Pocket",
+        "Garment back type": " Plain",
+        "Garment sleeve style": " Basic Sleeve",
+        "Care and Cleaning": " Machine Wash & Line Dry or Lay Flat to Dry",
+        "TCIN": " 82139057",
+        "UPC": " 191904765390",
+        "Item Number (DPCI)": " 013-03-4710",
+        "Origin": " Imported"
+    },
+    "price": 25.0,
+    "description": "Take on the cooler weather in style with this Open-Front Cardigan from Universal Thread\u2122. Made from 100% cotton fabric for comfy wear, this open-front cardigan features intricate textured stitching, and is finished with ribbed edges for a snug fit. The high-low hem falls below the hip for effortless layering, and its open-front design makes sure tees and blouses can be seen along with your favorite necklaces and accessories. Pop it over anything for a look-defining layer and finish off with flats, sandals or sneakers.",
+    "title": "Women's Open-Front Cardigan - Universal Thread\u2122",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
+Finding page : https://www.target.com/p/women-s-v-neck-sweater-vest-wild-fable/-/A-82490655
+{
+    "specs": {
+        "Sizing": " Womens",
+        "Material": " 55% Cotton, 45% Acrylic",
+        "Fit": " Classic Fit",
+        "Length": " At Hip",
+        "Garment Style": " Sleeveless, Pullover",
+        "Neckline": " V Neck",
+        "Cuff Type": " No Cuff",
+        "Pockets": " No Pocket",
+        "Fabric Weight Type": " Midweight Fabric",
+        "Care and Cleaning": " Machine Wash & Line Dry or Lay Flat to Dry",
+        "TCIN": " 82304344",
+        "UPC": " 195994027376",
+        "Item Number (DPCI)": " 331-03-3275",
+        "Origin": " Imported"
+    },
+    "price": 20.0,
+    "description": "Solid-hued sweater vest adorned with a classic cable-knit construction. Sleeveless design featuring a V-neckline and an at-hip length, highlighted with rib-knit edges for a stay-put, structured fit. Soft fabric blend keeps you cozy and comfy throughout the day, while the classic-fit silhouette completes the look. If you\u2019re not satisfied with any Target Owned Brand item, return it within one year with a receipt for an exchange or a refund.",
+    "title": "Women's V-Neck Sweater Vest - Wild Fable\u2122",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
+Finding page : https://www.target.com/p/women-s-button-front-cropped-cardigan-wild-fable/-/A-82569176
+{
+    "specs": {
+        "Sizing": " Womens",
+        "Material": " 50% Rayon, 29% Recycled Polyester, 21% Nylon",
+        "Fit": " Regular Fit",
+        "Length": " Cropped",
+        "Garment Style": " Long Sleeve, Front Button Down",
+        "Neckline": " Round",
+        "Cuff Type": " No Cuff",
+        "Pockets": " No Pocket",
+        "Care and Cleaning": " Machine Wash & Line Dry or Lay Flat to Dry",
+        "TCIN": " 82304338",
+        "UPC": " 195994000805",
+        "Item Number (DPCI)": " 331-03-3269",
+        "Origin": " Imported"
+    },
+    "price": 20.0,
+    "description": "Long-sleeve cardigan with a button-down placket. Boasts ribbed accents at the round neckline, wrists and hem for a sleek fit. Cut in a cropped silhouette with a regular fit and made from a soft fabric blend to keep you warm and comfy all day long. If you\u2019re not satisfied with any Target Owned Brand item, return it within one year with a receipt for an exchange or a refund.",
+    "title": "Women's Button-Front Cropped Cardigan - Wild Fable\u2122",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
+Finding page : https://www.target.com/p/women-s-3-4-sleeve-wrap-jacket-knox-rose-purple-printed/-/A-82431675
+{
+    "specs": {
+        "Sizing": " Womens",
+        "Material": " 100% Rayon",
+        "Fit": " Regular Fit",
+        "Length": " Below Hip",
+        "Garment Style": " Elbow Sleeve, Open Front",
+        "Cuff Type": " No Cuff",
+        "Pockets": " No Pocket",
+        "Number of Pockets": " 0",
+        "Garment lapel details": " No Lapels",
+        "Care and Cleaning": " Machine Wash & Tumble Dry",
+        "TCIN": " 82044172",
+        "UPC": " 191904689597",
+        "Item Number (DPCI)": " 316-06-0464",
+        "Origin": " Imported"
+    },
+    "price": 29.99,
+    "description": "From running errands to just hanging out with friends, this Printed Jacket from Knox Rose\u2122 takes you through any outing in effortless comfort and style. Designed with a mix of striped prints in lively shades, this elbow-sleeve jacket lets you create a fresh summer look. The lightweight fabric construction offers breathable comfort, while the open-front style allows for easy layering and wear. Just wear this below-hip jacket over your favorite jeans and top to complete your chic look.",
+    "title": "Women's 3/4 Sleeve Wrap Jacket - Knox Rose\u2122 Purple Printed",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
+Finding page : https://www.target.com/p/women-s-open-layered-jacket-knox-rose/-/A-82728996
+{
+    "specs": {
+        "Sizing": " Womens",
+        "Material": " 65% Rayon, 35% Polyester",
+        "Fit": " Classic Fit",
+        "Length": " Below Hip",
+        "Garment Style": " Long Sleeve, Open Front",
+        "Cuff Type": " Rolled Cuff",
+        "Pockets": " No Pocket",
+        "Number of Pockets": " 0",
+        "Garment lapel details": " Shawl Lapels",
+        "Care and Cleaning": " Machine Wash & Tumble Dry",
+        "TCIN": " 82570089",
+        "UPC": " 195994362965",
+        "Item Number (DPCI)": " 316-06-0591",
+        "Origin": " Imported"
+    },
+    "price": 27.99,
+    "description": "Elevate your casual closet with this Open-Layered Jacket from Knox Rose\u2122. The long-sleeve jacket is crafted from lightweight fabric for cool comfort, and comes in a plaid pattern that adds sophisticated style to your closet. Tailored in a classic fit with below-hip length for convenient layering, this open-front jacket shows off your tees, dresses and more, while a handkerchief hem finishes off the smart look. Layer over T-shirts and jeans or even casual shift dresses for versatile styling options.",
+    "title": "Women's Open Layered Jacket - Knox Rose\u2122",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
+Finding page : https://www.target.com/p/women-s-button-front-cardigan-a-new-day/-/A-83599961
+{
+    "specs": {
+        "Sizing": " Womens",
+        "Material": " 60% Cotton, 40% Acrylic",
+        "Hem Style": " Ribbed Hem",
+        "Fit": " Regular Fit",
+        "Length": " At Hip",
+        "Garment Style": " Long Sleeve, Front Button Down",
+        "Neckline": " V Neck",
+        "Cuff Type": " Ribbed Cuff",
+        "Pockets": " No Pocket",
+        "Care and Cleaning": " Machine Wash & Tumble Dry",
+        "TCIN": " 82257211",
+        "UPC": " 191904633361",
+        "Item Number (DPCI)": " 018-13-0244",
+        "Origin": " Imported"
+    },
+    "price": 25.0,
+    "description": "This Button-Front Cardigan from A New Day\u2122 lends a cozy finish to your everyday look. Made of a comfy breathable fabric, this long-sleeve cardigan has a cozy knit design, and is finished with a V-neckline and ribbed edges for a classic look that can be dressed up or down with ease. The button-front design allows for effortless layering and easy wear, while the two patch pockets add functional style. Layer over anything from dresses to tops for versatile cold-weather wear.",
+    "title": "Women's Button-Front Cardigan - A New Day\u2122",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
+Finding page : https://www.target.com/p/women-s-cargo-jacket-knox-rose/-/A-82652078
+{
+    "specs": {
+        "Sizing": " Womens",
+        "Material": " 100% Lyocell",
+        "Fit": " Casual Fit",
+        "Length": " At Hip",
+        "Garment Style": " Long Sleeve, Open Front",
+        "Neckline": " Collared",
+        "Cuff Type": " Single Cuff",
+        "Pockets": " Side Buttoned Flap Pocket",
+        "Number of Pockets": " 2",
+        "Garment cuff closure type": " Button",
+        "Garment lapel details": " Shawl Lapels",
+        "Garment sleeve style": " Basic Sleeve",
+        "Piece 1 pattern": " Camouflage",
+        "Care and Cleaning": " Machine Wash & Tumble Dry",
+        "TCIN": " 82570009",
+        "UPC": " 195994249822",
+        "Item Number (DPCI)": " 316-06-0572",
+        "Origin": " Imported"
+    },
+    "price": 34.99,
+    "description": "The Cargo Jacket from Knox Rose\u2122 makes a welcome addition to your easygoing, casual go-to outerwear collection. Made of a soft and flowy fabric with a lovely drape, this women's jacket is fashioned in a denim-like look with classic stitched detailing. It sports a waterfall-style open front for an eye-catching look that also makes for easy layering over your tops and outfits. The long-sleeve jacket is tailored in a relaxed fit with an at-hip length, and it has buttoned epaulette details and sleeve tabs for additional flair. The cinched waistline offers a flattering silhouette, while the buttoned flap pockets on the front give you space to hold all the essentials.",
+    "title": "Women's Cargo Jacket - Knox Rose\u2122",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
+Finding page : https://www.target.com/p/women-s-open-front-cardigan-a-new-day/-/A-83599766
+{
+    "specs": {
+        "Sizing": " Womens",
+        "Material": " 53% Cotton, 27% Polyester, 20% Nylon",
+        "Fit": " Regular Fit",
+        "Length": " At Hip",
+        "Garment Style": " Long Sleeve, Open Front",
+        "Neckline": " Open",
+        "Cuff Type": " Ribbed Cuff",
+        "Pockets": " Front Patch Pocket",
+        "Fabric Weight Type": " Midweight Fabric",
+        "Care and Cleaning": " Machine Wash & Line Dry or Lay Flat to Dry",
+        "TCIN": " 82257040",
+        "UPC": " 191904631374",
+        "Item Number (DPCI)": " 018-13-0032",
+        "Origin": " Imported"
+    },
+    "price": 27.99,
+    "description": "Keep your layering basics sleek and stylish with this Open Neck Front Cardigan from A New Day\u2122. This open-front cardigan is made from soft and lightweight fabric for comfortable wear, and a regular fit that falls at hip offers easy and effortless layering. The rib-knit cuffs and hem give it a neat, snug finish, while front patch pockets add functional flair to your look. Pair with a variety of looks for comfy days and evenings when the temps fall.",
+    "title": "Women's Open-Front Cardigan - A New Day\u2122",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
+Finding page : https://www.target.com/p/women-s-button-front-cable-stitch-cardigan-universal-thread/-/A-82490630
+{
+    "specs": {
+        "Sizing": " Womens",
+        "Material": " 60% Cotton, 40% Acrylic",
+        "Fit": " Regular Fit",
+        "Length": " At Hip",
+        "Garment Style": " Long Sleeve, Front Button Down",
+        "Neckline": " Open",
+        "Cuff Type": " Ribbed Cuff",
+        "Pockets": " No Pocket",
+        "Fabric Weight Type": " Midweight Fabric",
+        "Care and Cleaning": " Machine Wash & Tumble Dry",
+        "TCIN": " 82139187",
+        "UPC": " 191904767042",
+        "Item Number (DPCI)": " 013-03-4840",
+        "Origin": " Imported"
+    },
+    "price": 29.99,
+    "description": "Sweeten up your cozy wear with this Button-Front Cable Stitch Cardigan from Universal Thread\u2122. This cute cardigan is made from lightweight material for comfy wear, and the open-front design features intricate cable stitching, finished with ribbed cuffs for a snug fit. This cable-stitch cardigan has a hem that falls at your hip with a front button-down design for effortless layering, while the open neckline lends extra flair to your layered looks. Pair it with a variety of pieces from your closet for comfy days and evenings when the weather changes gear.",
+    "title": "Women's Button-Front Cable Stitch Cardigan - Universal Thread\u2122",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
+Finding page : https://www.target.com/p/women-s-plus-size-cardigan-ava-viv/-/A-82550168
+{
+    "specs": {
+        "Sizing": " Womens Plus",
+        "Material": " 60% Cotton, 40% Viscose",
+        "Fit": " Casual Fit",
+        "Length": " Below Hip",
+        "Garment Style": " Long Sleeve, Open Front",
+        "Neckline": " Open",
+        "Cuff Type": " Ribbed Cuff",
+        "Pockets": " Front Patch Pocket",
+        "Care and Cleaning": " Machine Wash & Tumble Dry",
+        "TCIN": " 82089227",
+        "UPC": " 195994067273",
+        "Item Number (DPCI)": " 021-08-1136",
+        "Origin": " Imported"
+    },
+    "price": 24.99,
+    "description": "Update your cool-weather closet with this Long-Sleeve Cardigan from Ava & Viv\u2122. Cut for a versatile casual fit, the open-front cardigan features an open neckline with banded hem and cuffs for easy layering and chic wear. The lightweight fabric construction keeps you in cozy comfort, while the front patch pockets add style and functional flair. Layer over anything from casual dresses to T-shirts and jeans to enjoy tons of stylish looks year-round.",
+    "title": "Women's Plus Size Cardigan - Ava & Viv\u2122",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
+Finding page : https://www.target.com/p/women-s-long-sleeve-jacket-knox-rose/-/A-81468945
+{
+    "specs": {
+        "Sizing": " Womens",
+        "Material": " 98% Cotton, 2% Spandex",
+        "Fit": " Standard Fit",
+        "Length": " At Hip",
+        "Garment Style": " Long Sleeve, Front Button Down",
+        "Cuff Type": " Single Cuff",
+        "Pockets": " Front Flap Pocket",
+        "Garment lapel details": " No Lapels",
+        "Care and Cleaning": " Machine Wash & Tumble Dry",
+        "TCIN": " 81168819",
+        "UPC": " 829576769827",
+        "Item Number (DPCI)": " 316-06-0001",
+        "Origin": " Imported"
+    },
+    "price": 34.99,
+    "description": "Bring charming flair to your cool-weather closet with this Long-Sleeve Star Jacket from Knox Rose\u2122. Made from a lightweight fabric with a hint of spandex for a comfy fit, this jacket adds charming style to your ensemble with its allover star print, front button-down and long sleeves. Tailored in an easy fit with an at-hip length for convenient layering, this jacket has an elasticized back to give you a shapely silhouette, and multiple flap pockets to keep your hands warm while offering a spot to keep your essentials close by. Wear it over anything from dresses to T-shirts when weather changes gear.",
+    "title": "Women's Long Sleeve Jacket - Knox Rose\u2122",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
+Finding page : https://www.target.com/p/women-s-boyfriend-cardigan-a-new-day/-/A-83706760
+{
+    "specs": {
+        "Sizing": " Womens",
+        "Material": " 43% Polyester, 33% Acrylic, 20% Recycled Polyester, 4% Spandex",
+        "Hem Style": " Ribbed Hem",
+        "Fit": " Regular Fit",
+        "Length": " Below Waist",
+        "Garment Style": " Long Sleeve, Front Button Down",
+        "Neckline": " V Neck",
+        "Cuff Type": " Ribbed Cuff",
+        "Pockets": " Front Patch Pocket",
+        "Garment back type": " Plain",
+        "Garment sleeve style": " Basic Sleeve",
+        "Care and Cleaning": " Machine Wash & Line Dry or Lay Flat to Dry",
+        "TCIN": " 82270870",
+        "UPC": " 191904639714",
+        "Item Number (DPCI)": " 018-13-1241",
+        "Origin": " Imported"
+    },
+    "price": 27.99,
+    "description": "Look effortlessly chic on any outings with this Long-Sleeve Boyfriend Cardigan from A New Day\u2122. The long-sleeve boyfriend cardigan makes a fashionable layering piece over a variety of outfits. It features a flattering below-waist length, along with plaid pattern on a textured backdrop to bring a cozy, textured finish to your look. The open-front design allows for effortless layering and easy wear, while front patch pockets adds functional style. Layer over your favorite shirt-and-jeans combo or wear to top off a T-shirt dress for versatile outfit options.",
+    "title": "Women's Boyfriend Cardigan - A New Day\u2122",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
+Finding page : https://www.target.com/p/women-s-jacket-knox-rose-gray-leopard-print/-/A-82652084
+{
+    "specs": {
+        "Sizing": " Womens",
+        "Material": " 98% Cotton, 2% Spandex",
+        "Fit": " Regular Fit",
+        "Length": " At Hip",
+        "Garment Style": " Long Sleeve, Front Button Down",
+        "Cuff Type": " Single Cuff",
+        "Pockets": " Front Flap Pocket",
+        "Number of Pockets": " 4",
+        "Garment lapel details": " No Lapels",
+        "Care and Cleaning": " Machine Wash & Tumble Dry",
+        "TCIN": " 82570099",
+        "UPC": " 195994250033",
+        "Item Number (DPCI)": " 316-06-0620",
+        "Origin": " Imported"
+    },
+    "price": 34.99,
+    "description": "The Leopard-Print Jacket from Knox Rose\u2122 makes a versatile addition in your transitional outerwear collection. Made of cotton with a hint spandex, this women's long-sleeve jacket gives you a flexible moves-with-you fit, and it's fashioned in a gray leopard print for a playful yet timeless look. The collared neckline with a button-down front lets you wear it unbuttoned for a lightweight layer or up and closed for keeping warm during breezy weather, and it has a cinched back waist to give a flattering silhouette. Tailored in a regular fit with an at-hip length, this animal-print jacket is fashioned with multiple utility pockets for holding all the essentials, whether you pair it with jeans and a tee, cut-off shorts and a blouse or leatherette slim-fit pants and a shirt.",
+    "title": "Women's Jacket - Knox Rose\u2122 Gray Leopard Print",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
+Finding page : https://www.target.com/p/women-s-plaid-knit-bomber-jacket-universal-thread/-/A-83699858
+{
+    "specs": {
+        "Sizing": " Womens",
+        "Material": " 100% Polyester",
+        "Lining Fabric": " Taffeta",
+        "Material Lining": " 100% Recycled Polyester",
+        "Fit": " Regular Fit",
+        "Length": " At Waist",
+        "Garment Style": " Long Sleeve, Front Full Length Zipper",
+        "Cuff Type": " Ribbed Cuff",
+        "Pockets": " Front Single Welt Pocket",
+        "Number of Pockets": " 2",
+        "Garment lapel details": " No Lapels",
+        "Care and Cleaning": " Machine Wash & Tumble Dry",
+        "TCIN": " 82225073",
+        "UPC": " 191904725875",
+        "Item Number (DPCI)": " 283-02-1486",
+        "Origin": " Imported"
+    },
+    "price": 40.0,
+    "description": "This Plaid Knit Bomber Jacket from Universal Thread\u2122 makes for a timeless cool-weather staple. This long-sleeve jacket showcases a plaid pattern for a timeless choice in your layering wardrobe. Made from breathable fabric with smooth taffeta lining, it ensures comfortable all-day wear. This bomber jacket is also styled with a collared neckline and front single belt pocket to highlight the classic shape. Plus, the ribbed hem and cuffs offer a snug fit. Layer over your favorite shirt-and-jeans combo or dresses for versatile wear.",
+    "title": "Women's Plaid Knit Bomber Jacket - Universal Thread\u2122",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
+Finding page : https://www.target.com/p/women-s-stripe-wrap-jacket-universal-thread-rust/-/A-82635444
+{
+    "specs": {
+        "Sizing": " Womens",
+        "Material": " 70% Acrylic, 30% Recycled Polyester",
+        "Fit": " Regular Fit",
+        "Length": " At Hip",
+        "Garment Style": " Elbow Sleeve, Open Front",
+        "Cuff Type": " No Cuff",
+        "Pockets": " No Pocket",
+        "Number of Pockets": " 0",
+        "Garment lapel details": " No Lapels",
+        "Care and Cleaning": " Hand Wash & Line Dry or Lay Flat to Dry",
+        "TCIN": " 82239973",
+        "UPC": " 191904736772",
+        "Item Number (DPCI)": " 061-08-9801",
+        "Origin": " Imported"
+    },
+    "price": 28.0,
+    "description": "Take on cooler weather in style with this Rust Stripe Wrap Jacket from Universal Thread\u2122. This cape-style wrap jacket with loose elbow sleeves makes a fashionable and comfortable layering staple in your closet. It features repeated white stripes on a rust backdrop for a timeless look, along with matching tassels on the hemline for added movement and casual charm. The open-front style allows for easy layering and wear. You can layer over a range of outfits for a perfect transitional piece.",
+    "title": "Women's Stripe Wrap Jacket - Universal Thread\u2122 Rust",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
+Finding page : https://www.target.com/p/women-s-essential-open-front-cardigan-a-new-day/-/A-79605110
+{
+    "specs": {
+        "Sizing": " Womens",
+        "Material": " 60% Organic Cotton, 40% Recycled Polyester",
+        "Fit": " Classic Fit",
+        "Length": " Below Hip",
+        "Garment Style": " Long Sleeve, Open Front",
+        "Neckline": " Open",
+        "Cuff Type": " Ribbed Cuff",
+        "Pockets": " No Pocket",
+        "Care and Cleaning": " Machine Wash & Line Dry or Lay Flat to Dry",
+        "TCIN": " 79393316",
+        "UPC": " 191905380110",
+        "Item Number (DPCI)": " 018-13-6717",
+        "Origin": " Imported"
+    },
+    "price": 25.0,
+    "description": "Add a perfect finishing touch to your everyday look with this Essential Open-Front Cardigan from A New Day\u2122. This long-sleeve cardigan makes a go-to layering piece over your outfits. It showcases a self knit design made from soft and lightweight fabric for comfortable wear, and a longline fit that falls below the hip for easy and effortless layering. The solid yellow color add a lively flair to any outfit, while the rib-knit cuffs give it a neat, snug finish. Pair with everything from jeans and cotton tees to dresses and more to keep your look classically chic.\n\nWe designed this product using at least 20% recycled polyester (excluding trimmings, ornamentation, interlinings, and linings; see below for full fiber content), a fabric that\u2019s created by turning old plastic into new polyester fibers. Making products with recycled polyester helps prevent plastic waste from ending up in landfills \u2014 another way we\u2019re committed to promoting sustainability.",
+    "title": "Women's Essential Open-Front Cardigan - A New Day\u2122",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
+Finding page : https://www.target.com/p/women-s-plus-size-faux-leather-moto-jacket-ava-viv-black/-/A-82438387
+{
+    "specs": {
+        "Sizing": " Womens Plus",
+        "Material": " 100% Rayon",
+        "Lining Fabric": " Taffeta",
+        "Material Lining": " 100% Recycled Polyester",
+        "Fit": " Oversized",
+        "Length": " At Waist",
+        "Garment Style": " Long Sleeve, Front Full Length Zipper",
+        "Cuff Type": " No Cuff",
+        "Garment Details": " Faux Leather",
+        "Pockets": " Front Zippered Pocket",
+        "Number of Pockets": " 2",
+        "Garment lapel details": " Notched Lapels",
+        "Care and Cleaning": " Machine Wash & Tumble Dry",
+        "TCIN": " 82223830",
+        "UPC": " 191904745194",
+        "Item Number (DPCI)": " 021-04-1275",
+        "Origin": " Imported"
+    },
+    "price": 45.0,
+    "description": "Layer up in comfort and chic style with this Faux Leather Moto Jacket from Ava & Viv\u2122. The oversized jacket features a classic moto design, complete with unique quilted stitching, metallic zippers at the sleeves and notched lapels to add a touch of bold flair to your everyday looks. The jacket is crafted from lightweight fabric with a soft lining for all-day comfort, while a front full-length zipper closure makes for easy layering and styling. Pair over skinny jeans and your favorite tee for a cool look, or throw over a sundress to add warmth on a cool breezy night.",
+    "title": "Women's Plus Size Faux Leather Moto Jacket - Ava & Viv\u2122 Black",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
+Finding page : https://www.target.com/p/women-s-trench-coat-all-in-motion/-/A-82456657
+{
+    "specs": {
+        "Sizing": " Womens",
+        "Material": " 100% Nylon",
+        "Fit": " Casual Fit",
+        "Length": " At Knee",
+        "Garment Style": " Long Sleeve, Front Full Length Zipper",
+        "Cuff Type": " Banded Cuff",
+        "Garment Details": " Ventilated Design Wind-Resistant Fabric, Water-Resistant Construction",
+        "Pockets": " Side Pocket",
+        "Number of Pockets": " 2",
+        "Garment cuff closure type": " No Cuff Closure",
+        "Garment lapel details": " No Lapels",
+        "Garment sleeve style": " Basic Sleeve",
+        "Care and Cleaning": " Machine Wash & Tumble Dry",
+        "TCIN": " 81902664",
+        "UPC": " 191904535559",
+        "Item Number (DPCI)": " 214-13-0440",
+        "Origin": " Imported"
+    },
+    "price": 50.0,
+    "description": "Why we're ALL IN:\n\nA long-sleeve trench coat cut in a mid-length silhouette will be an instant go-to for drizzly days, keeping you comfortably dry with its water-resistant fabric. The wind-resistant construction aids in keeping the chilly air out, along with the full-front zipper closure with hook-and-loop fasteners keeping the fit nice and snug. A secure hood with adjustable drawstring adds yet another layer of protection and coverage, and a curved back hem with V-cut center slit provides greater range of motion. You can even adjust the waistline with an inner toggle waistband. Rounding out the design are side pockets for keeping on-the-go essentials close by and concealed.\n\nWhen families come together to discover the joy of staying active, All in Motion is there to make it easy and comfortable to embrace a bustling lifestyle. From running errands to running intervals, the collection AIMs to propel you forward with thoughtfully designed pieces that fit and feel great \u2014 movement is the core of this performance line, with a 100% satisfaction guarantee.",
+    "title": "Women's Trench Coat - All in Motion\u2122",
+    "currency": "USD"
+}
+----------------------------------------------------------------------------------------------------
