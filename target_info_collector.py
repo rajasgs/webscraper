@@ -62,99 +62,110 @@ from driver_options import driver, option
 # option.add_experimental_option('useAutomationExtension', False)
 
 
-def get_currency(driver):
+class TargetInfoCollector():
 
-    return "USD"
+    def __init__(self, **kwargs):
+        pass
 
-def get_title(driver):
+    def get_currency(self, driver):
 
-    # Get element with tag name 'h1'
-    element = driver.find_element(By.TAG_NAME, 'h1')
+        return "USD"
 
-    # Get all the elements available with tag name 'span'
-    spans = element.find_elements(By.TAG_NAME, 'span')
-    for span in spans:
-        return span.text
+    def get_title(self, driver):
 
-def get_size(driver):
+        # Get element with tag name 'h1'
+        element = driver.find_element(By.TAG_NAME, 'h1')
 
-    size_divs = driver.find_elements_by_css_selector('div[data-test=VariationSelector]')
-    size_div = size_divs[1]
+        # Get all the elements available with tag name 'span'
+        spans = element.find_elements(By.TAG_NAME, 'span')
+        for span in spans:
+            return span.text
 
-    divs = size_div.find_elements_by_css_selector('div')[1].find_elements_by_css_selector('div')
-    
-    for div in divs:
-        # button = div.find_element(By.TAG_NAME, 'button')
-        # print(button.text)
-        print(div.text)
+    def get_size(self, driver):
 
-    # print(description)
+        size_divs = driver.find_elements_by_css_selector('div[data-test=VariationSelector]')
+        size_div = size_divs[1]
 
-    return None
+        divs = size_div.find_elements_by_css_selector('div')[1].find_elements_by_css_selector('div')
+        
+        for div in divs:
+            # button = div.find_element(By.TAG_NAME, 'button')
+            # print(button.text)
+            print(div.text)
 
-def get_price(driver):
+        # print(description)
 
-    price_element = driver.find_element_by_css_selector('div[data-test="product-price"]')
-    price = price_element.text
-    # print(price)
+        return None
 
-    return price
+    def get_price(self, driver):
 
-def get_description(driver):
+        price_element = driver.find_element_by_css_selector('div[data-test="product-price"]')
+        price = price_element.text
+        # print(price)
 
-    description_elements = driver.find_elements_by_css_selector('div#product-details-tabs div.h-margin-v-default')
-    description = description_elements[1].text
-    # print(description)
+        return price
 
-    return description
+    def get_description(self, driver):
 
-def get_specs(driver):
+        description_elements = driver.find_elements_by_css_selector('div#product-details-tabs div.h-margin-v-default')
+        description = description_elements[1].text
+        # print(description)
 
-    # Get the button and click to show more
-    button = driver.find_element_by_css_selector('div#tabContent-tab-Details div button')
-    button.click()
+        return description
 
-    specs = driver.find_element_by_css_selector('div#specAndDescript div:nth-child(1) div')
-    specs =  specs.text.split('\n')
-    specs = [spec for spec in specs if spec != 'Specifications']
+    def get_specs(self, driver):
 
-    final_dict = {}
+        # Get the button and click to show more
+        button = driver.find_element_by_css_selector('div#tabContent-tab-Details div button')
+        button.click()
 
-    for spec in specs:
-        current_list    = spec.split(':')
-        key             = current_list[0]
-        value           = current_list[1]
+        specs = driver.find_element_by_css_selector('div#specAndDescript div:nth-child(1) div')
+        specs =  specs.text.split('\n')
+        specs = [spec for spec in specs if spec != 'Specifications']
 
-        final_dict[key] = value
+        final_dict = {}
 
-    return final_dict
+        for spec in specs:
+            current_list    = spec.split(':')
+            key             = current_list[0]
+            value           = current_list[1]
+
+            final_dict[key] = value
+
+        return final_dict
 
 
-def get_single_page(page: AnyStr):
+    def get_single_page(self, page: AnyStr):
 
-    driver  = webdriver.Chrome(DRIVER_PATH, options= option)
+        driver  = webdriver.Chrome(DRIVER_PATH, options= option)
 
-    driver.maximize_window()
-    driver.get(page)
+        driver.maximize_window()
+        driver.get(page)
 
-    data                = get_specs(driver)
-    data['price']       = get_price(driver)
-    data['description'] = get_description(driver)
-    data['currency']    = get_currency(driver)
-    data['title']       = get_title(driver)
+        data                = self.get_specs(driver)
+        data['price']       = self.get_price(driver)
+        data['description'] = self.get_description(driver)
+        data['currency']    = self.get_currency(driver)
+        data['title']       = self.get_title(driver)
 
-    # print(data)
+        # print(data)
 
-    print(json.dumps(data, indent = 4))
+        # print(json.dumps(data, indent = 4))
 
-    driver.quit()
+        driver.quit()
 
-    return data
+        return data
 
 def startpy():
 
     page            = os.environ.get('PAGE')
-    get_single_page(page)
+
+    target_info_collctor = TargetInfoCollector()
+
+    data            = target_info_collctor.get_single_page(page)
+    print(json.dumps(data, indent = 4))
+
+
     
 if __name__ == '__main__':
     startpy()
